@@ -1,0 +1,23 @@
+Some info about this one: held approximately at half of April in the laboratories (we were never told about this exercise upfront, so that’s for you to be prepared instantly).
+Basically, what she asks is to create the design of an app. This has to be done in pairs, so decide one to make the group with, then do this exercise.
+-	We will have an hour to create the app design
+Some hints:
+-	Remember the design guidelines we have seen
+-	Take inspiration from other apps (not so much!)
+-	Who is your audience? Create a persona
+-	You don’t have to develop it so use your creative talent!
+On Moodle, this one is called “Exercise in lab”. 
+Remember a few things:
+-	You have one hour, you can’t do anything particularly complicated
+-	You can use Figma, Balsamiq (in Windows with license), Canva, whatever
+You can send your assignment within the full hour, so no worries. After, you will enter a Zoom sharing your work and discussing with others.
+ 
+Main things to remember:
+-	specify the goal of the application
+-	understand who the person is doing this app
+-	think about the ethical concern of the app created
+-	think about how colors are used overall and gestures 
+Other things to note:
+-	the teacher will just make some people present for the sake of time, not everybody
+-	in the next few days, the evaluation will be uploaded
+I write everything down for you to be organized upfront, given she basically told us the same week we had to do this without considering telling us what programs to use and how to use them: squeezing them in an hour without saying anything is not good. This way, you can probably do a better job than what I did.
