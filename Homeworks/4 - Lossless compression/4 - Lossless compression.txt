@@ -1,0 +1,9 @@
+This drops after the end of the previous set of slides “mmdata” – “Multimedia Data”, same day or the day after. This is not a collaborative homework, but this is an individual one.
+ 
+Encode the string:
+abcabcabcabcffffffffffff000000000000ffffffffffffffffffffffff
+
+using:
+1.	the LZW algorithm and
+2.	choose an algorithm between Shannon-Fano and Huffman.
+Compare the two results in terms of compression ratio. 
